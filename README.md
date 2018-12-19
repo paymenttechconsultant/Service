@@ -1,2 +1,0 @@
-# PaymentTerminal
-A POS Client
