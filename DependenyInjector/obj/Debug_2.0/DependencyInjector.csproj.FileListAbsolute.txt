@@ -1,0 +1,15 @@
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\DependenyInjector.dll.config
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\DependenyInjector.dll
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\DependenyInjector.pdb
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\DependenyInjector.XML
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\EntityFramework.dll
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\EntityFramework.SqlServer.dll
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\MySql.Data.dll
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\MySql.Data.Entity.EF6.dll
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\EntityFramework.xml
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\bin\Debug_2.0\EntityFramework.SqlServer.xml
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\obj\Debug_2.0\DependencyInjector.csprojAssemblyReference.cache
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\obj\Debug_2.0\DependencyInjector.csproj.CoreCompileInputs.cache
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\obj\Debug_2.0\DependencyInjector.csproj.CopyComplete
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\obj\Debug_2.0\DependenyInjector.dll
+C:\Users\aj250298\Downloads\IPaymentService-master\IPaymentService-master\DependenyInjector\obj\Debug_2.0\DependenyInjector.pdb
